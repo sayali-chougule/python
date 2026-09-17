@@ -23,3 +23,10 @@ val.reverse()
 
 for i in val:
     print(i, end=",")
+
+# Insert and append element in array
+
+val.insert(4, 9)
+
+for i in val:
+    print(i, end=",")
