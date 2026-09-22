@@ -12,3 +12,8 @@ To reverse a singly linked list in place,the last node becomes the new head, and
     2. `curr.next` becomes `prev`
     3. `prev` becomes `curr`
     4. `curr` becomes `next_node`
+
+3. Complexity
+
+- Time complexity is O(n) since each node is visited once. 
+- Space complexity is O(1) since using a few pointer variables.
