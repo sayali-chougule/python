@@ -22,3 +22,4 @@ class Solution(object):
             curr = curr.next
         curr.next = l1 or l2
         return dummy.next
+    
