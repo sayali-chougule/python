@@ -10,4 +10,4 @@ class Solution(object):
                 head.next = head.next.next
             else:
                 head = head.next
-        return dummy
+        return dummy 
