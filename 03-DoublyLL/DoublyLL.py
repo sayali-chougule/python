@@ -90,6 +90,9 @@ obj.insertAtEnd(40)
 obj.insertAtBeg(5)
 obj.insertAtMid(15, 10)
 obj.insertAtMid(21, 20)
+obj.deleteDDl(5)
+obj.deleteDDl(21)
+obj.deleteDDl(40)
 obj.prinDLL()
     
     
