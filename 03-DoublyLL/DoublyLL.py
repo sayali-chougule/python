@@ -52,7 +52,7 @@ class DoublyLL:
         t.next = temp
         temp.prev = t
 
-# Deletion
+# Deletion of Node
     
     def deleteDDl(self, value):
         if self.head == None:
