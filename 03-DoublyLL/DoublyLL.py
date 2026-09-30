@@ -94,6 +94,3 @@ obj.deleteDDl(5)
 obj.deleteDDl(21)
 obj.deleteDDl(40)
 obj.prinDLL()
-    
-    
-        
