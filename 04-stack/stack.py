@@ -17,5 +17,12 @@ class stack:
     def pop(self):
         if len(self.s) == 0:
             raise Exception("Stack is Empty")
-        else
+        else:
             return self.s.pop(0)
+        
+stk = stack()
+stk.push(10)
+stk.push(20)
+stk.push(30)
+print(stk.peek())
+print(stk.pop())
